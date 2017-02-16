@@ -1,2 +1,2 @@
-Codes for projectEuler in javascript,python and C.
-In the future will also upload in haskell.
+Codes for projectEuler in python , C and ruby
+In the future will also upload in other languages.
